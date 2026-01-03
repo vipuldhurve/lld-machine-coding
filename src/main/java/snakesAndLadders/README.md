@@ -1,4 +1,4 @@
-# Snakes And Ladders
+# Snakes And Ladders 🐍🪜
 
 ![Game Preview](assets/snakesAndLaddersTitle.jpg)
 
