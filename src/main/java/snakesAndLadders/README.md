@@ -1,4 +1,3 @@
 # Snakes And Ladders 🐍🪜
 
-![Game Preview](assets/snakesAndLadders.jpg)
-
+<img src="assets/snakesAndLadders.jpeg" alt="Game Preview" width="400" height="370">
